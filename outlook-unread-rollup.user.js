@@ -1,11 +1,12 @@
 // ==UserScript==
-// @name         Outlook web: unread rollup on collapsed folders
+// @name         Outlook: Unread Folder Totals
 // @namespace    https://github.com/christoph-teichmeister/outlook-unread-rollup
-// @version      0.2
+// @version      0.3
 // @description  Collapsed parent folders show own + subfolder unread total (Outlook web hides subfolder counts).
 // @match        https://outlook.office.com/mail/*
 // @match        https://outlook.office365.com/mail/*
 // @match        https://outlook.cloud.microsoft/mail/*
+// @icon         https://raw.githubusercontent.com/christoph-teichmeister/outlook-unread-rollup/refs/heads/main/icon.svg
 // @grant        none
 // @updateURL    https://raw.githubusercontent.com/christoph-teichmeister/outlook-unread-rollup/main/outlook-unread-rollup.user.js
 // @downloadURL  https://raw.githubusercontent.com/christoph-teichmeister/outlook-unread-rollup/main/outlook-unread-rollup.user.js

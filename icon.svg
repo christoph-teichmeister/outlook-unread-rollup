@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Outlook Unread Folder Totals">
+  <rect width="64" height="64" rx="14" fill="#0f6cbd"/>
+  <!-- folder -->
+  <path d="M10 20a4 4 0 0 1 4-4h11l5 5h20a4 4 0 0 1 4 4v21a4 4 0 0 1-4 4H14a4 4 0 0 1-4-4z" fill="#ffd56b"/>
+  <path d="M10 27h44v19a4 4 0 0 1-4 4H14a4 4 0 0 1-4-4z" fill="#f2b92b"/>
+  <!-- unread count badge -->
+  <circle cx="47" cy="17" r="11" fill="#d13438" stroke="#0f6cbd" stroke-width="3"/>
+  <path d="M43 17h8M47 13v8" stroke="#fff" stroke-width="3" stroke-linecap="round"/>
+</svg>
